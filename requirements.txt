@@ -1,6 +1,7 @@
 metomi-isodatetime
 cylc-flow
 psyclone
+pluggy
 
 notebook
 ipython
