@@ -2,6 +2,7 @@ metomi-isodatetime
 cylc-flow
 psyclone
 pluggy
+sqlalchemy==1.3.*
 
 notebook
 ipython
