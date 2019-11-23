@@ -11,3 +11,7 @@ pendulum
 notebook
 ipython
 
+scikit-fuzzy
+numpy
+matplotlib
+
