@@ -12,3 +12,5 @@ psyclone
 scikit-fuzzy
 sqlalchemy==1.3.*
 
+spacy==2.1.0
+neuralcoref
