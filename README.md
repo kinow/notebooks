@@ -4,7 +4,7 @@
 From: https://anbasile.github.io/programming/2017/06/25/jupyter-venv/
 
 ```bash
-$ virtualenv venv
+$ python -m venv venv
 $ . venv/bin/activate
 $ pip install ipykernel
 # until metomi-isodatetime with 3.8 requirement is released
